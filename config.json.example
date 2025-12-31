@@ -1,0 +1,10 @@
+{
+  "moe_number": "20260233",
+  "name": "主页名",
+  "domain": "主页域名",
+  "homepage": "主页链接",
+  "description": "主页简介",
+  "owner": "站长名称",
+  "email_mail": "mail_addr@proton.me",
+  "email_pass": "123456"
+}
