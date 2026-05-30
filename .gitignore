@@ -3,8 +3,10 @@ __pycache__/
 .mypy_cache/
 .pytest_cache/
 .ruff_cache/
-.pdm-python
 .venv/
+
+# coding
+.omo
 
 # exploration stuff
 dataset/

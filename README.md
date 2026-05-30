@@ -27,7 +27,7 @@
 1. 安装依赖
 
 ```bash
-pdm install
+uv sync
 ```
 
 2. 配置 `config.json` 文件，填写相关信息。
@@ -35,5 +35,5 @@ pdm install
 3. 运行脚本
 
 ```bash
-pdm run main.py
+uv run main.py
 ```
